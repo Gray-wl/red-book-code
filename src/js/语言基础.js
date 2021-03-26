@@ -12,4 +12,7 @@ foo();
 }
 console.log(age);*/
 
-
+console.log(foo.constructor)
+console.log(foo.toLocaleString())
+console.log(foo.toString())
+console.log(foo.valueOf())
